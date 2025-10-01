@@ -113,18 +113,18 @@ Q-Learning 代理人，包括:
 - 學習曲線圖表
 
 ### 10x10 迷宮訓練過程
-![10x10迷宮動畫](maze_10x10_animation.gif)
+![10x10迷宮動畫](figures/maze_10x10_animation.gif)
 
 ### 25x25 迷宮訓練過程
-![25x25迷宮動畫](maze_25x25_animation.gif)
+![25x25迷宮動畫](figures/maze_25x25_animation.gif)
 
 ### 學習曲線
-![學習曲線1](Figure_1.png)
-![學習曲線2](Figure_2.png)
+![學習曲線1](figures/Figure_1.png)
+![學習曲線2](figures/Figure_2.png)
 
 ### 路徑探索分析
-![路徑分析1](3Figure_.png)
-![路徑分析2](4Figure_.png)
+![路徑分析1](figures/3Figure_.png)
+![路徑分析2](figures/4Figure_.png)
 
 ## 參數調優建議
 
