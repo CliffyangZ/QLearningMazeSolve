@@ -74,16 +74,6 @@ Q(s,a) = (1-α) × Q(s,a) + α × [r + γ × max(Q(s',a'))]
 - 以 (1-ε) 的機率隨機探索 (exploration)
 - ε 值隨訓練進行而衰減
 
-## 項目結構
-
-```
-SOLVE_MAZE_SARSA/
-├── q_learning_maze.py    # 主程式
-├── requirements.txt      # 依賴套件
-├── README.md            # 說明文件
-└── QLearningMAZE.md     # 理論說明
-```
-
 ## 類別說明
 
 ### Environment
