@@ -1,5 +1,8 @@
 # Q-Learning 迷宮求解器
 
+<img width="894" height="487" alt="截圖 2025-11-03 下午2 12 51" src="https://github.com/user-attachments/assets/c51581f9-aa3b-48f4-a9f8-41bc87ba5c34" />
+
+
 這個專案使用 Q-Learning 強化學習演算法來解決兩個不同大小的迷宮問題。
 
 ## 迷宮編碼
